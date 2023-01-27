@@ -1,31 +1,53 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+# MakeREADMEReady
+  ![License:MIT License](https://img.shields.io/badge/License-MIT-yellow.svg) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-<b>Description</b><br>
-A code that will generate a README file to be used on projects.
-Using Node.js and inquirer to make this project work. 
-
-<b>Screen Share:<br>
-
-<b>User Story</b><br>
-AS A developer<br>
-I WANT a README generator<br>
-SO THAT I can quickly create a professional README for a new project<br>
-
-<b>Acceptance Criteria<b><br>
-GIVEN a command-line application that accepts user input<br>
-WHEN I am prompted for information about my application repository<br>
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions<br>
-WHEN I enter my project title<br>
-THEN this is displayed as the title of the README<br>
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions<br>
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests<br>
-WHEN I choose a license for my application from a list of options<br>
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under<br>
-WHEN I enter my GitHub username<br>
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile<br>
-WHEN I enter my email address<br>
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions<br>
-WHEN I click on the links in the Table of Contents<br>
-THEN I am taken to the corresponding section of the README
+  ## Description
+  
+  I will create an application in which I will be able to generate README files with ease that are professional as well as quick.
+  
+  It solves the ability to have to hand create READMEs for each project/app. Now it can be done automatically with great styling.
+  
+  I learned so much about automatic file creating, node.js, running express and package files for node. As well as a refresh on clean coding with so many different functions.
+  
+  My code is easy to read, simple comments, and deploys like it should. The final styling is also nice.
+  
+  
+  ## Table of Contents
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  
+  ## Installation
+  
+  The final steps are: Install NODE.js to your local computer. Install package.json files necessary (inquirer), run "node index" in the terminal and then finally fill out the questions as they appear.
+  
+  ## Usage
+  
+  1. Install Node.js on your local computer. 2. Clone or create the Repo with the index and generateMarkdown.js file. 3. Run node install to install all package.json files needed. 4. Run node index in terminal.
+  
+  ## License
+  This project is covered by the following license: 
+  [MIT License](https://choosealicense.com/licenses/mit/)
+  
+  ## Contributing
+  
+  Here are the guidelines for how to contribute:
+  [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+  
+  ## Tests
+  
+  N/A
+  
+  ## Questions
+  
+  If you have any questions about this project, here's how to contact me:
+  
+  Github: https://github.com/@CourtneyGoch
+  Email: courtneyc017@gmail.com
+  
