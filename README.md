@@ -2,18 +2,24 @@
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-<b>Description</b><br>
+<b>Description</b> <br>
 A code that will generate a README file to be used on projects.
 Using Node.js and inquirer to make this project work. 
 
-<b>Screen Share:<br>
+-------------------------------------------------------------
 
-<b>User Story</b><br>
+<b>Screen Share:</b> <br>
+
+-------------------------------------------------------------
+
+<b>User Story</b> <br>
 AS A developer<br>
 I WANT a README generator<br>
 SO THAT I can quickly create a professional README for a new project<br>
 
-<b>Acceptance Criteria<b><br>
+-------------------------------------------------------------
+
+<b>Acceptance Criteria</b> <br>
 GIVEN a command-line application that accepts user input<br>
 WHEN I am prompted for information about my application repository<br>
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions<br>
